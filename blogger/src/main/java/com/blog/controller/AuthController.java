@@ -177,6 +177,8 @@ public class AuthController {
         // above is the permission given in the SecurityConfig.java
     }
 //    detail in page no. --> 76 --> Java-Pankaj_sir-6
+    public void test() {
+    }
 
 }
 
